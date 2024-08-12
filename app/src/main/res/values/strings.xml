@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Lucky Number</string>
+    <string name="welcome_to_lucy_number">Welcome to Lucy Number</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="your_lucy_number_is">Your Lucy Number Is:</string>
+    <string name="share_lucky_number">Share Lucky Number</string>
+    <string name="png_luck_image">png_luck_image</string>
+    <string name="wish_me_a_luck">Wish me a luck!</string>
+</resources>
